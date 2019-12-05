@@ -1,4 +1,5 @@
-def get_wather_of(city):
+
+def get_city_wather(city):
   print("Hello world")
   data_frame = pd.DataFrame(np.random.randn(10,4), columns = list('ABCD'))
   print (data_frame)
